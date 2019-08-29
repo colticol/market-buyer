@@ -1,0 +1,12 @@
+#############################################
+# Check Parameters before staring
+#############################################
+exchange:
+    name: bitflyer
+    api_key: key
+    api_secret: secret
+    symbol: BTC/JPY
+    yen: 1000
+notify:
+    line:
+        token: token
